@@ -11,7 +11,7 @@ public class Atividade1{
 		
 		int age = currentYear - year;
 		
-		Console.WriteLine("Vocẽ tem "+ age +"Anos");
+		Console.WriteLine("Você tem "+ age +" Anos");
         }
     }
 }
